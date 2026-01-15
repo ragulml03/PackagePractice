@@ -1,2 +1,0 @@
-# PackagePractice
-Package Practice
